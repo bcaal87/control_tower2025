@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|d:\\misdocumentos2023\\universidad\\congreso ingenier\u00EDa en sistemas\\appcongreso\\congresoumg\\congresoumg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|solutionrelative:congresoumg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|d:\\misdocumentos2023\\universidad\\congreso ingenier\u00EDa en sistemas\\appcongreso\\congresoumg\\congresoumg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|solutionrelative:congresoumg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\appsettings.json",
+              "RelativeDocumentMoniker": "CongresoUMG\\appsettings.json",
+              "ToolTip": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\appsettings.json",
+              "RelativeToolTip": "CongresoUMG\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T20:29:44.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CongresoUMG\\Views\\Shared\\_Layout.cshtml",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\CongresoUMG.csproj": {}
+    "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\CongresoUMG.csproj": {}
   },
   "projects": {
-    "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\CongresoUMG.csproj": {
+    "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\CongresoUMG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\CongresoUMG.csproj",
+        "projectUniqueName": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\CongresoUMG.csproj",
         "projectName": "CongresoUMG",
-        "projectPath": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\CongresoUMG.csproj",
+        "projectPath": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\CongresoUMG.csproj",
         "packagesPath": "C:\\Users\\Byron Caal\\.nuget\\packages\\",
-        "outputPath": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\obj\\",
+        "outputPath": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
