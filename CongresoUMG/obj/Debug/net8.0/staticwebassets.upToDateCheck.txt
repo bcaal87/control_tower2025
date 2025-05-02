@@ -2,6 +2,8 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\banner-campus.jpg
 wwwroot\images\Elvis-Batzibal.jpg
+wwwroot\images\Geison-Cab.jpg
+wwwroot\images\Hugo-Estrada.png
 wwwroot\images\Jonathan-Hernandez2.jpg
 wwwroot\images\Kristo-Dubon.jpeg
 wwwroot\images\Max-Caal2.jpg
@@ -9,7 +11,6 @@ wwwroot\images\sponsor1.png
 wwwroot\images\sponsor2.png
 wwwroot\images\sponsor3.jpg
 wwwroot\images\sponsor4.png
-wwwroot\images\Yimmi-ruano.jpg
 wwwroot\images\yova-deleon.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
