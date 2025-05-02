@@ -3,7 +3,7 @@ version: '3.8'
 services:
   congreso-app:
     build:
-      context: ./congresoumg
+      context: ./CongresoUMG
       dockerfile: Dockerfile
     restart: always
     environment:
