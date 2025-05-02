@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|d:\\misdocumentos2023\\universidad\\congreso ingenier\u00EDa en sistemas\\appcongreso\\congresoumg\\congresoumg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|solutionrelative:congresoumg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|d:\\misdocumentos2023\\universidad\\congreso ingenier\u00EDa en sistemas\\appcongreso\\congresoumg\\congresoumg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|solutionrelative:congresoumg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|d:\\misdocumentos2023\\universidad\\congreso ingenier\u00EDa en sistemas\\appcongreso\\congresoumg\\congresoumg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|solutionrelative:congresoumg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|d:\\misdocumentos2023\\universidad\\congreso ingenier\u00EDa en sistemas\\appcongreso\\congresoumg\\congresoumg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|solutionrelative:congresoumg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|d:\\misdocumentos2023\\universidad\\congreso ingenier\u00EDa en sistemas\\appcongreso\\congresoumg\\congresoumg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|solutionrelative:congresoumg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB6FEE9F-F536-45A7-8D2E-B69C53E70AAD}|CongresoUMG\\CongresoUMG.csproj|d:\\misdocumentos2023\\universidad\\congreso ingenier\u00EDa en sistemas\\appcongreso\\congresoumg\\congresoumg\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -34,23 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\appsettings.json",
+              "RelativeDocumentMoniker": "CongresoUMG\\appsettings.json",
+              "ToolTip": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\appsettings.json",
+              "RelativeToolTip": "CongresoUMG\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T18:00:19.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\Program.cs",
               "RelativeDocumentMoniker": "CongresoUMG\\Program.cs",
               "ToolTip": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\Program.cs",
               "RelativeToolTip": "CongresoUMG\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T07:18:26.398Z"
+              "WhenOpened": "2025-05-02T07:18:26.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CongresoUMG\\Views\\Shared\\_Layout.cshtml",
@@ -62,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "CongresoUMG\\wwwroot\\css\\site.css",
@@ -74,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CongresoUMG\\Views\\Home\\Index.cshtml",
@@ -87,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Importar.cshtml",
               "DocumentMoniker": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\Views\\Admin\\Importar.cshtml",
               "RelativeDocumentMoniker": "CongresoUMG\\Views\\Admin\\Importar.cshtml",
@@ -99,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingenier\u00EDa en Sistemas\\appcongreso\\CongresoUMG\\CongresoUMG\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "CongresoUMG\\Controllers\\AdminController.cs",
