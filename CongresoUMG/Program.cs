@@ -2,6 +2,8 @@ using CongresoUMG.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+// Puerto 80 explícito
+
 
 builder.Services.AddDbContext<CongresoContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));

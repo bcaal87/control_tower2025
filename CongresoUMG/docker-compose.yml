@@ -9,6 +9,7 @@ services:
     restart: always
     environment:
       - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:80
       - ConnectionStrings__DefaultConnection=Host=congreso-db;Port=5432;Database=congreso_umg;Username=admin;Password=admin123
       - VIRTUAL_HOST=sistemasumgcoban.com.gt
       - LETSENCRYPT_HOST=sistemasumgcoban.com.gt

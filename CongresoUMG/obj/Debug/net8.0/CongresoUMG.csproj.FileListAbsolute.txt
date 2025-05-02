@@ -152,3 +152,4 @@ D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\Co
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\bin\Debug\net8.0\RBush.dll
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\bin\Debug\net8.0\SixLabors.Fonts.dll
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\congresoumg\CongresoUMG\obj\Debug\net8.0\CongresoUMG.sourcelink.json
