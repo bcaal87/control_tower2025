@@ -2,6 +2,7 @@ version: '3.8'
 
 services:
   congreso-app:
+    container_name: congreso-frontend
     build:
       context: .
       dockerfile: Dockerfile
