@@ -129,7 +129,6 @@ D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\Co
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CongresoUMG.props
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CongresoUMG.props
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\obj\Debug\net8.0\staticwebassets.pack.json
-D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\obj\Debug\net8.0\Congreso.5DF2E1BD.Up2Date
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\obj\Debug\net8.0\CongresoUMG.dll
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\obj\Debug\net8.0\refint\CongresoUMG.dll
@@ -153,3 +152,4 @@ D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\Co
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\bin\Debug\net8.0\SixLabors.Fonts.dll
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\bin\Debug\net8.0\System.IO.Packaging.dll
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\congresoumg\CongresoUMG\obj\Debug\net8.0\CongresoUMG.sourcelink.json
+D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

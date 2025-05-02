@@ -11,6 +11,8 @@ wwwroot\images\sponsor1.png
 wwwroot\images\sponsor2.png
 wwwroot\images\sponsor3.jpg
 wwwroot\images\sponsor4.png
+wwwroot\images\sponsor5.jpg
+wwwroot\images\Yesica-Catun.jpeg
 wwwroot\images\yova-deleon.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

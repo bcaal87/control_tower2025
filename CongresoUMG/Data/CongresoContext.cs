@@ -8,5 +8,7 @@ namespace CongresoUMG.Data
         public CongresoContext(DbContextOptions<CongresoContext> options) : base(options) { }
 
         public DbSet<Participante> Participantes { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
+
     }
 }

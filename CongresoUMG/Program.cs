@@ -8,6 +8,12 @@ builder.Services.AddDbContext<CongresoContext>(options =>
 
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddAuthentication("Cookies")
+    .AddCookie("Cookies", options =>
+    {
+        options.LoginPath = "/Cuenta/Login";
+        options.LogoutPath = "/Cuenta/Logout";
+    });
 var app = builder.Build();
 
 if (!app.Environment.IsDevelopment())
@@ -19,6 +25,7 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

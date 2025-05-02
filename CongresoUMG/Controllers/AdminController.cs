@@ -3,9 +3,11 @@ using CongresoUMG.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ClosedXML.Excel;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CongresoUMG.Controllers
 {
+    [Authorize]
     public class AdminController : Controller
     {
         private readonly CongresoContext _context;
