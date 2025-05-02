@@ -1,0 +1,230 @@
+﻿@{
+    ViewData["Title"] = "Congreso UMG 2025";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/site.css" />
+
+<!-- BANNER -->
+<section class="hero text-white text-center d-flex align-items-center justify-content-center">
+    <div class="container">
+        <h1 class="display-4 fw-bold">XIII Congreso de Ingeniería en Sistemas</h1>
+        <p class="lead hero-sub animate-hero">16 y 17 de mayo de 2025 | 30 Años de Innovación y Tecnología · Campus Cobán</p>
+
+        <!-- Botón personalizado que abrirá el popup -->
+        <button id="registroPopup" class="btn btn-lg btn-danger mt-3">Registrarse</button>
+    </div>
+</section>
+
+<!-- ACERCA DEL EVENTO -->
+<section class="py-5 bg-light" id="acerca">
+    <div class="container">
+        <h2 class="mb-4 text-primary animate-slide-up" align="center">Acerca del Evento</h2>
+        <p>
+            Este año conmemoramos <strong>30 años de excelencia académica</strong> en la carrera de Ingeniería en Sistemas en el Campus Cobán
+            de la Universidad Mariano Gálvez. En este congreso reuniremos a estudiantes, docentes, profesionales y líderes del sector tecnológico
+            para compartir conocimientos, experiencias y visiones de futuro.
+        </p>
+        <p>
+            El evento contará con <strong>conferencias técnicas, talleres prácticos, charlas de innovación y espacios de networking</strong>
+            con expertos. Es una oportunidad única para fortalecer tu perfil profesional, actualizarte sobre las
+            últimas tendencias en tecnología y celebrar juntos esta trayectoria de impacto en la región.
+        </p>
+    </div>
+</section>
+
+<!-- CONFERENCISTAS -->
+<section class="py-5" id="conferencistas">
+    <div class="container">
+        <h2 class="mb-5 text-primary text-center animate-slide-up">Conferencistas</h2>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
+
+            <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/Elvis-Batzibal.jpg" alt="Ing. Elvis Batzibal" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Ing. Elvis Batzibal</h5>
+                        <p class="text-muted">Experto DevOps</p>
+                        <p class="tema-charla">Tema: Del dato a la conversación: Asistente Web con IA en Python y .NET </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/yova-deleon.jpg" alt="Ing. Geovani de León" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Ing. Geovani de León</h5>
+                        <p class="text-muted">Microsoft MVP | Cloud Solutions Architect | DevOps Engineer </p>
+                        <p class="tema-charla">Tema: Del Código a la Nube: CI/CD con .NET, Github y Azure | Tu Primera WebApp con Blazor WebAssembly y consumo de APIs </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/Yimmi-ruano.jpg" alt="Ing. Yimmi Ruano" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Ing. Yimmi Ruano</h5>
+                        <p class="text-muted">Cloud Developer</p>
+                        <p class="tema-charla">Tema: Pinecone: The vector database to build knowledgeable AI</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/Kristo-Dubon.jpeg" alt="Ing. Kristo Dubón" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Ing. Kristo Dubón</h5>
+                        <p class="text-muted">Developer Analyst</p>
+                        <p class="tema-charla">Tema: Evolución Empresarial.NET: Construyendo el Futuro </p>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/Max-Caal2.jpg" alt="Ing. Max Caal" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Ing. Max Caal</h5>
+                        <p class="text-muted">Arquitecto de Infraestructura</p>
+                        <p class="tema-charla">Tema: Infraestructura para servicios críticos</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/Jonathan-Hernandez2.jpg" alt="MSc. Mónica Villanueva" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Lcdo. Jonathan Hernández</h5>
+                        <p class="text-muted">Lex Data | Ceo Founder</p>
+                        <p class="tema-charla">Tema: Ciberseguridad y Aspectos Legales</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/karla-fuentes.jpg" alt="Ing. Karla Fuentes" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Ing. Karla Fuentes</h5>
+                        <p class="text-muted">UX/UI Design</p>
+                        <p class="tema-charla">Tema: Experiencia del usuario con IA</p>
+                    </div>
+                </div>
+            </div>-->
+            <!--<div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/sergio-cortes.jpg" alt="Lic. Sergio Cortés" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Lic. Sergio Cortés</h5>
+                        <p class="text-muted">Ciberdefensa</p>
+                        <p class="card-text">Tema: Protección de redes en tiempo real</p>
+                    </div>
+                </div>
+            </div>-->
+            <!-- <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/elena-mora.jpg" alt="Licda. Elena Mora" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Licda. Elena Mora</h5>
+                        <p class="text-muted">Tecnología social</p>
+                        <p class="card-text">Tema: Transformación digital en comunidades</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/roberto-gomez.jpg" alt="Dr. Roberto Gómez" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Dr. Roberto Gómez</h5>
+                        <p class="text-muted">Bioinformática</p>
+                        <p class="card-text">Tema: Inteligencia artificial en salud</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/isabel-martinez.jpg" alt="Ing. Isabel Martínez" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">Ing. Isabel Martínez</h5>
+                        <p class="text-muted">Desarrollo Móvil</p>
+                        <p class="card-text">Tema: Apps que transforman realidades</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card text-center border-0 shadow-sm h-100 pt-4">
+                    <img src="~/images/felipe-arias.jpg" alt="MSc. Felipe Arias" class="card-img-circle mx-auto d-block mt-4 mb-2">
+                    <div class="card-body">
+                        <h5 class="card-title text-dark">MSc. Felipe Arias</h5>
+                        <p class="text-muted">Inteligencia Artificial</p>
+                        <p class="card-text">Tema: Ética en los algoritmos modernos</p>
+                    </div>
+                </div>
+            </div>-->
+
+        </div>
+    </div>
+</section>
+
+<!-- AGENDA -->
+<section class="py-5 bg-light" id="agenda">
+    <div class="container">
+        <h2 class="mb-4 text-primary animate-slide-up">Agenda del Evento</h2>
+        <ul class="list-group">
+            <li class="list-group-item">📅 <strong>Viernes 16 de mayo:</strong> Acto inaugural de 18:00 a 21:00 hrs.</li>
+            <li class="list-group-item">📅 <strong>Sábado 17 de mayo:</strong> Charlas y talleres de 07:00 a 16:30 hrs.</li>
+        </ul>
+    </div>
+</section>
+
+<!-- ENLACE INSTITUCIONAL -->
+<section class="py-4 text-center">
+    <div class="container">
+        <a href="https://www.umg.edu.gt" class="btn btn-outline-dark" target="_blank">
+            Más información sobre la Universidad Mariano Gálvez
+        </a>
+    </div>
+</section>
+<!-- SPONSORS CAROUSEL -->
+<section class="py-5 bg-light" id="sponsors">
+    <div class="container text-center">
+        <h2 class="mb-4 text-primary animate-slide-up">Nuestros Patrocinadores</h2>
+        <p class="mb-5 text-muted">Gracias a su apoyo, celebramos 30 años de innovación, educación y tecnología.</p>
+
+        <div id="carouselSponsors" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+
+                <div class="carousel-item active">
+                    <div class="d-flex justify-content-center gap-5 flex-wrap">
+                        <img src="~/images/sponsor1.png" class="sponsor-logo grayscale-hover" alt="Sponsor 1">
+                        <img src="~/images/sponsor2.png" class="sponsor-logo grayscale-hover" alt="Sponsor 2">
+                        <img src="~/images/sponsor3.jpg" class="sponsor-logo grayscale-hover" alt="Sponsor 3">
+                        <img src="~/images/sponsor4.png" class="sponsor-logo grayscale-hover" alt="Sponsor 4">
+                    </div>
+                </div>
+
+                <!--<div class="carousel-item">
+                    <div class="d-flex justify-content-center gap-5 flex-wrap">
+                        <img src="~/images/sponsor5.png" class="sponsor-logo grayscale-hover" alt="Sponsor 5">
+                        <img src="~/images/sponsor6.png" class="sponsor-logo grayscale-hover" alt="Sponsor 6">
+                        <img src="~/images/sponsor7.png" class="sponsor-logo grayscale-hover" alt="Sponsor 7">
+                        <img src="~/images/sponsor8.png" class="sponsor-logo grayscale-hover" alt="Sponsor 8">
+                    </div>
+                </div>-->
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+

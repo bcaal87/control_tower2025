@@ -1,0 +1,303 @@
+:root {
+    --deep-cerulean: #0473ab;
+    --alizarin-crimson: #eb3130;
+    --wafer: #e1cecb;
+    --copper: #bf8433;
+    --woodsmoke: #0c0e0f;
+    --tapa: #797874;
+    --tonys-pink: #e5939c;
+    --mandy: #e8646c;
+    --blue-whale: #043454;
+    --shakespeare: #4cb4dc;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff;
+    color: var(--woodsmoke);
+}
+
+h2 {
+    color: var(--blue-whale);
+}
+
+section {
+    scroll-margin-top: 70px;
+}
+
+.btn-danger {
+    background-color: var(--alizarin-crimson);
+    border-color: var(--alizarin-crimson);
+}
+
+.btn-outline-dark {
+    color: var(--woodsmoke);
+    border-color: var(--woodsmoke);
+}
+
+    .btn-outline-dark:hover {
+        background-color: var(--woodsmoke);
+        color: #fff;
+    }
+
+.card-title {
+    color: var(--deep-cerulean);
+    font-weight: 600;
+}
+
+.card-text {
+    color: var(--tapa);
+}
+
+.card {
+    border-top: 3px solid var(--shakespeare);
+    transition: transform 0.2s ease-in-out;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+    }
+
+.hero {
+    background-image: url('/images/banner-campus.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+    }
+}
+html {
+    scroll-behavior: smooth;
+}
+.scroll-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 100;
+    background-color: var(--alizarin-crimson);
+    color: white;
+    padding: 12px 16px;
+    border-radius: 50%;
+    font-size: 20px;
+    display: none;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: opacity 0.3s ease;
+}
+
+    .scroll-to-top:hover {
+        background-color: var(--mandy);
+    }
+/* Scroll to Top Button */
+.scroll-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 100;
+    background-color: var(--alizarin-crimson);
+    color: white;
+    padding: 12px;
+    border-radius: 50%;
+    display: none;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: opacity 0.3s ease;
+    line-height: 0;
+}
+
+    .scroll-to-top:hover {
+        background-color: var(--mandy);
+    }
+
+footer a:hover {
+    color: var(--shakespeare);
+}
+
+.conferencista-card {
+    background-color: var(--wafer);
+    border-top: 4px solid var(--shakespeare);
+    transition: transform 0.2s ease-in-out;
+}
+
+    .conferencista-card:hover {
+        transform: translateY(-5px);
+    }
+footer {
+    font-size: 0.9rem;
+}
+
+    footer a:hover {
+        color: var(--shakespeare);
+    }
+footer {
+    background-color: var(--blue-whale);
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 0.95rem;
+}
+
+    footer a {
+        color: white;
+        text-decoration: underline;
+    }
+
+        footer a:hover {
+            color: var(--shakespeare);
+        }
+.hero {
+    background-image: url('/images/banner-campus.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    position: relative;
+}
+
+    .hero::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: rgba(4, 52, 84, 0.7); /* semitransparente overlay */
+        z-index: 0;
+    }
+
+    .hero .container {
+        z-index: 1;
+        position: relative;
+    }
+@keyframes fadeSlideUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-slide-up {
+    opacity: 0;
+    animation: fadeSlideUp 1s ease-out forwards;
+}
+section p {
+    color: var(--tapa); /* un gris suave */
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+#acerca p {
+    color: var(--woodsmoke); /* texto más fuerte */
+    font-size: 1.1rem;
+    line-height: 1.8;
+    transition: background-color 0.3s ease, padding 0.2s ease;
+    padding: 10px 0;
+    border-radius: 4px;
+}
+
+    #acerca p:hover {
+        background-color: #f1f1f1; /* gris claro neutro */
+        padding-left: 12px;
+    }
+#agenda .list-group-item {
+    background-color: #ffffff;
+    border: none;
+    border-left: 5px solid var(--deep-cerulean);
+    margin-bottom: 12px;
+    padding: 18px 24px;
+    color: var(--woodsmoke);
+    font-size: 1.1rem;
+    font-weight: 500;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+}
+
+    #agenda .list-group-item:hover {
+        background-color: var(--wafer);
+        transform: translateY(-2px);
+    }
+.card-img-circle {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: -70px auto 10px;
+    border: 4px solid white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    display: block;
+}
+.hero-sub {
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 400;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeUp 1.2s ease-out 0.4s forwards;
+}
+
+@keyframes fadeUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.tema-charla {
+    color: var(--deep-cerulean);
+    font-weight: 600;
+    margin-top: 0.5rem;
+}
+.grayscale-hover {
+    filter: grayscale(100%);
+    transition: filter 0.3s ease-in-out;
+}
+
+    .grayscale-hover:hover {
+        filter: none;
+    }
+/* Sponsor Section Styling */
+.sponsor-box {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease;
+}
+
+    .sponsor-box:hover {
+        transform: scale(1.05);
+    }
+
+.grayscale-hover {
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+}
+
+    .grayscale-hover:hover {
+        filter: grayscale(0%);
+    }
+.sponsor-logo {
+    max-width: 120px;
+    height: 60px;
+    object-fit: contain;
+    filter: grayscale(100%);
+    transition: transform 0.3s, filter 0.3s;
+}
+
+    .sponsor-logo:hover {
+        filter: none;
+        transform: scale(1.05);
+    }
+
+

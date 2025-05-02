@@ -1,0 +1,58 @@
+﻿@model List<CongresoUMG.Models.Participante>
+
+@{
+    ViewData["Title"] = "Check-In de Participantes";
+}
+
+<h2 class="mb-3">Check-In de Participantes</h2>
+
+<form method="get" asp-action="CheckIn">
+    <input type="text" name="search" placeholder="Buscar por carné, DPI o nombre" class="form-control mb-3" />
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Carné</th>
+            <th>Nombre</th>
+            <th>DPI</th>
+            <th>Teléfono</th>
+            <th>Check-In</th>
+            <th>Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Carne</td>
+                <td>@p.NombreCompleto</td>
+                <td>@p.Dpi</td>
+                <td>@p.Telefono</td>
+                <td>
+                    @if (p.CheckIn)
+                    {
+                        <span class="badge bg-success">Hecho</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-warning text-dark">Pendiente</span>
+                    }
+                </td>
+                <td>
+                    @if (!p.CheckIn)
+                    {
+                        <form method="post" asp-action="CheckInConfirm" asp-route-id="@p.Id">
+                            <button type="submit" class="btn btn-success btn-sm">Hacer Check-In</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <span class="text-muted">✓</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  congreso-app:
+    build:
+      context: ./congresoumg
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ConnectionStrings__DefaultConnection=Host=congreso-db;Port=5432;Database=congreso_umg;Username=admin;Password=admin123
+      - VIRTUAL_HOST=sistemasumgcoban.com.gt
+      - LETSENCRYPT_HOST=sistemasumgcoban.com.gt
+      - LETSENCRYPT_EMAIL=caal97@gmail.com
+    expose:
+      - "80"
+    networks:
+      - web
+      - internal
+
+  congreso-db:
+    image: postgres:16
+    restart: always
+    environment:
+      - POSTGRES_DB=congreso_umg
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin123
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - internal
+
+volumes:
+  pgdata:
+
+networks:
+  web:
+    external: true
+  internal:
+    driver: bridge

@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  congreso-frontend:
+    build:
+      context: ./congresoUMG  
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      - VIRTUAL_HOST=sistemasumgcoban.com.gt
+      - LETSENCRYPT_HOST=sistemasumgcoban.com.gt
+      - LETSENCRYPT_EMAIL=caal97@gmail.com
+    networks:
+      - web
+    expose:
+      - "80"
+
+networks:
+  web:
+    external: true
