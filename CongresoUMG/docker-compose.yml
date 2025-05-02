@@ -31,6 +31,19 @@ services:
       - pgdata:/var/lib/postgresql/data
     networks:
       - internal
+    
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: congreso-pgadmin
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@umg.edu.gt
+      PGADMIN_DEFAULT_PASSWORD: supersegura123
+    ports:
+      - "8081:80"
+    networks:
+      - internal
+
 
 volumes:
   pgdata:
