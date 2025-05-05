@@ -65,12 +65,12 @@
       "PackagePath": "staticwebassets\\images\\Rodolfo-Martinez.jpg"
     },
     {
-      "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Sponsor6.png",
-      "PackagePath": "staticwebassets\\images\\Sponsor6.png"
+      "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Sponsor6.jpg",
+      "PackagePath": "staticwebassets\\images\\Sponsor6.jpg"
     },
     {
-      "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Sponsor9.jpg",
-      "PackagePath": "staticwebassets\\images\\Sponsor9.jpg"
+      "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Sponsor9.png",
+      "PackagePath": "staticwebassets\\images\\Sponsor9.png"
     },
     {
       "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Yesica-Catun.jpeg",
@@ -87,6 +87,10 @@
     {
       "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\sponsor1.png",
       "PackagePath": "staticwebassets\\images\\sponsor1.png"
+    },
+    {
+      "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\sponsor10.png",
+      "PackagePath": "staticwebassets\\images\\sponsor10.png"
     },
     {
       "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\sponsor2.png",

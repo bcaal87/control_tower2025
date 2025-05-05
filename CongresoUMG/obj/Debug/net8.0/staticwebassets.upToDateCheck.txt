@@ -16,14 +16,15 @@ wwwroot\images\Max-Caal2.jpg
 wwwroot\images\Priscila-Tres.jpg
 wwwroot\images\Rodolfo-Martinez.jpg
 wwwroot\images\sponsor1.png
+wwwroot\images\sponsor10.png
 wwwroot\images\sponsor2.png
 wwwroot\images\sponsor3.jpg
 wwwroot\images\sponsor4.png
 wwwroot\images\sponsor5.jpg
-wwwroot\images\Sponsor6.png
+wwwroot\images\Sponsor6.jpg
 wwwroot\images\sponsor7.png
 wwwroot\images\sponsor8.jpg
-wwwroot\images\Sponsor9.jpg
+wwwroot\images\Sponsor9.png
 wwwroot\images\Yesica-Catun.jpeg
 wwwroot\images\yova-deleon.jpg
 wwwroot\js\site.js

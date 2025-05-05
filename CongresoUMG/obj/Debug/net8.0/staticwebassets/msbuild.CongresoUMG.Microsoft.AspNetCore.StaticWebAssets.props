@@ -342,6 +342,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor1.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor10.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CongresoUMG</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CongresoUMG</BasePath>
+      <RelativePath>images/sponsor10.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>daabwkfhpw</Fingerprint>
+      <Integrity>1SiOdOGNaGlb1jQaSqzal6Nr6q30E6z/dcJctj+029I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor10.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor2.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CongresoUMG</SourceId>
@@ -390,8 +408,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>daabwkfhpw</Fingerprint>
-      <Integrity>1SiOdOGNaGlb1jQaSqzal6Nr6q30E6z/dcJctj+029I=</Integrity>
+      <Fingerprint>k87mkoxlyl</Fingerprint>
+      <Integrity>JBLiBQSGAwFehzzsrhHI6SZmJ5JF1ItewpJsQe4npX8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor4.png'))</OriginalItemSpec>
@@ -414,23 +432,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor5.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor6.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor6.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CongresoUMG</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CongresoUMG</BasePath>
-      <RelativePath>images/Sponsor6.png</RelativePath>
+      <RelativePath>images/Sponsor6.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0f1hso1xkd</Fingerprint>
-      <Integrity>bG12Dsw2BQIEVq54AuJ/h5eV4LKXPK+PHVIfkEu4QcE=</Integrity>
+      <Fingerprint>v23455cege</Fingerprint>
+      <Integrity>aX5jQESGHOniZxyIF9u5qWlkg2q++ke94fF5+Rrdwlc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor6.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor6.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor7.png'))">
       <SourceType>Package</SourceType>
@@ -468,23 +486,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor8.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor9.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor9.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CongresoUMG</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CongresoUMG</BasePath>
-      <RelativePath>images/Sponsor9.jpg</RelativePath>
+      <RelativePath>images/Sponsor9.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>v23455cege</Fingerprint>
-      <Integrity>aX5jQESGHOniZxyIF9u5qWlkg2q++ke94fF5+Rrdwlc=</Integrity>
+      <Fingerprint>0f1hso1xkd</Fingerprint>
+      <Integrity>bG12Dsw2BQIEVq54AuJ/h5eV4LKXPK+PHVIfkEu4QcE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor9.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor9.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Yesica-Catun.jpeg'))">
       <SourceType>Package</SourceType>

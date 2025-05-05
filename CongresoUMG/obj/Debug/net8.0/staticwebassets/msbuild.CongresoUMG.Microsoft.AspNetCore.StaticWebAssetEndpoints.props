@@ -228,6 +228,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oAsuF45YS7UQAp0JVdyEFqnSTBIeoJeQhq5D1arRKsQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5805"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oAsuF45YS7UQAp0JVdyEFqnSTBIeoJeQhq5D1arRKsQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 02:28:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/sponsor10.daabwkfhpw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor10.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"daabwkfhpw"},{"Name":"integrity","Value":"sha256-1SiOdOGNaGlb1jQaSqzal6Nr6q30E6z/dcJctj\u002B029I="},{"Name":"label","Value":"_content/CongresoUMG/images/sponsor10.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8680"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221SiOdOGNaGlb1jQaSqzal6Nr6q30E6z/dcJctj\u002B029I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 02:29:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/sponsor10.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor10.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1SiOdOGNaGlb1jQaSqzal6Nr6q30E6z/dcJctj\u002B029I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8680"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221SiOdOGNaGlb1jQaSqzal6Nr6q30E6z/dcJctj\u002B029I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 02:29:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/sponsor2.f06re3rea9.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor2.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -252,17 +264,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-c5mrhnTQXWFHlVF5x5qaQfxrssclZ9Wqzlzae3MAniQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"93419"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022c5mrhnTQXWFHlVF5x5qaQfxrssclZ9Wqzlzae3MAniQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 02:30:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/sponsor4.daabwkfhpw.png">
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/sponsor4.k87mkoxlyl.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor4.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"daabwkfhpw"},{"Name":"integrity","Value":"sha256-1SiOdOGNaGlb1jQaSqzal6Nr6q30E6z/dcJctj\u002B029I="},{"Name":"label","Value":"_content/CongresoUMG/images/sponsor4.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8680"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221SiOdOGNaGlb1jQaSqzal6Nr6q30E6z/dcJctj\u002B029I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 02:29:26 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k87mkoxlyl"},{"Name":"integrity","Value":"sha256-JBLiBQSGAwFehzzsrhHI6SZmJ5JF1ItewpJsQe4npX8="},{"Name":"label","Value":"_content/CongresoUMG/images/sponsor4.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22395"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JBLiBQSGAwFehzzsrhHI6SZmJ5JF1ItewpJsQe4npX8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 21:12:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/sponsor4.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor4.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1SiOdOGNaGlb1jQaSqzal6Nr6q30E6z/dcJctj\u002B029I="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8680"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221SiOdOGNaGlb1jQaSqzal6Nr6q30E6z/dcJctj\u002B029I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 02:29:26 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JBLiBQSGAwFehzzsrhHI6SZmJ5JF1ItewpJsQe4npX8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22395"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JBLiBQSGAwFehzzsrhHI6SZmJ5JF1ItewpJsQe4npX8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 21:12:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/sponsor5.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor5.jpg'))</AssetFile>
@@ -276,17 +288,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"my7rskellc"},{"Name":"integrity","Value":"sha256-Du2YVyeXm/8eIBrXNcomX6ECBSEGKuTnpBbxzGK6wXQ="},{"Name":"label","Value":"_content/CongresoUMG/images/sponsor5.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25009"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Du2YVyeXm/8eIBrXNcomX6ECBSEGKuTnpBbxzGK6wXQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 16:51:59 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Sponsor6.0f1hso1xkd.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor6.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Sponsor6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor6.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0f1hso1xkd"},{"Name":"integrity","Value":"sha256-bG12Dsw2BQIEVq54AuJ/h5eV4LKXPK\u002BPHVIfkEu4QcE="},{"Name":"label","Value":"_content/CongresoUMG/images/Sponsor6.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8600"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bG12Dsw2BQIEVq54AuJ/h5eV4LKXPK\u002BPHVIfkEu4QcE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 18:20:00 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aX5jQESGHOniZxyIF9u5qWlkg2q\u002B\u002Bke94fF5\u002BRrdwlc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"825869"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aX5jQESGHOniZxyIF9u5qWlkg2q\u002B\u002Bke94fF5\u002BRrdwlc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 16:49:59 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Sponsor6.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor6.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Sponsor6.v23455cege.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor6.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bG12Dsw2BQIEVq54AuJ/h5eV4LKXPK\u002BPHVIfkEu4QcE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8600"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bG12Dsw2BQIEVq54AuJ/h5eV4LKXPK\u002BPHVIfkEu4QcE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 18:20:00 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v23455cege"},{"Name":"integrity","Value":"sha256-aX5jQESGHOniZxyIF9u5qWlkg2q\u002B\u002Bke94fF5\u002BRrdwlc="},{"Name":"label","Value":"_content/CongresoUMG/images/Sponsor6.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"825869"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aX5jQESGHOniZxyIF9u5qWlkg2q\u002B\u002Bke94fF5\u002BRrdwlc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 16:49:59 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/sponsor7.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sponsor7.png'))</AssetFile>
@@ -312,17 +324,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yebp3onzgg"},{"Name":"integrity","Value":"sha256-9ob0Vh3BQj6YxeUaJY0yg\u002BtN/UkcMdXKk8SsK4GgerE="},{"Name":"label","Value":"_content/CongresoUMG/images/sponsor8.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"24323"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229ob0Vh3BQj6YxeUaJY0yg\u002BtN/UkcMdXKk8SsK4GgerE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 03 May 2025 00:10:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Sponsor9.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor9.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Sponsor9.0f1hso1xkd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor9.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aX5jQESGHOniZxyIF9u5qWlkg2q\u002B\u002Bke94fF5\u002BRrdwlc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"825869"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aX5jQESGHOniZxyIF9u5qWlkg2q\u002B\u002Bke94fF5\u002BRrdwlc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 16:49:59 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0f1hso1xkd"},{"Name":"integrity","Value":"sha256-bG12Dsw2BQIEVq54AuJ/h5eV4LKXPK\u002BPHVIfkEu4QcE="},{"Name":"label","Value":"_content/CongresoUMG/images/Sponsor9.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8600"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bG12Dsw2BQIEVq54AuJ/h5eV4LKXPK\u002BPHVIfkEu4QcE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 18:20:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Sponsor9.v23455cege.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor9.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Sponsor9.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sponsor9.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v23455cege"},{"Name":"integrity","Value":"sha256-aX5jQESGHOniZxyIF9u5qWlkg2q\u002B\u002Bke94fF5\u002BRrdwlc="},{"Name":"label","Value":"_content/CongresoUMG/images/Sponsor9.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"825869"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aX5jQESGHOniZxyIF9u5qWlkg2q\u002B\u002Bke94fF5\u002BRrdwlc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 16:49:59 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bG12Dsw2BQIEVq54AuJ/h5eV4LKXPK\u002BPHVIfkEu4QcE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8600"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bG12Dsw2BQIEVq54AuJ/h5eV4LKXPK\u002BPHVIfkEu4QcE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 18:20:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Yesica-Catun.jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Yesica-Catun.jpeg'))</AssetFile>
