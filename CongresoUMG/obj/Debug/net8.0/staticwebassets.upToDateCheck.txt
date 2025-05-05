@@ -1,14 +1,17 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\Ariel-Peinado.jpg
 wwwroot\images\banner-campus.jpg
 wwwroot\images\Edgar-Lucas.jpg
 wwwroot\images\Elvis-Batzibal.jpg
 wwwroot\images\Geison-Cab.jpg
 wwwroot\images\Hugo-Estrada.png
+wwwroot\images\jackeline-salazar.jpg
 wwwroot\images\Jonathan-Hernandez2.jpg
 wwwroot\images\Kristo-Dubon.jpeg
 wwwroot\images\Luis-Barrientos.jpg
 wwwroot\images\Luis-Rivas.jpg
+wwwroot\images\Luis-Tarot.jpg
 wwwroot\images\Max-Caal2.jpg
 wwwroot\images\Priscila-Tres.jpg
 wwwroot\images\Rodolfo-Martinez.jpg
@@ -20,6 +23,7 @@ wwwroot\images\sponsor5.jpg
 wwwroot\images\Sponsor6.png
 wwwroot\images\sponsor7.png
 wwwroot\images\sponsor8.jpg
+wwwroot\images\Sponsor9.jpg
 wwwroot\images\Yesica-Catun.jpeg
 wwwroot\images\yova-deleon.jpg
 wwwroot\js\site.js

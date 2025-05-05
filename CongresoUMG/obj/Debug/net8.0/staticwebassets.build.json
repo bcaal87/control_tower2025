@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JpF314ygLiYJmhthvLqshFG7c0EWlVhf4PM0HBjHdEw=",
+  "Hash": "i3tqMd4cbisUCHQsHEY1bPYpGAoCaH8YkDjpEqjX1HA=",
   "Source": "CongresoUMG",
   "BasePath": "_content/CongresoUMG",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "98jrfvewro",
-      "Integrity": "5zpcNiKGeXbLtQXlG+yKBxAig2dEGqy9EbSugy0nEZw=",
+      "Fingerprint": "gxwpstxbnq",
+      "Integrity": "9HKBxeHwAkt3b8OvmBr1qdUFTkG3YeJkidNdJObb4s0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -101,6 +101,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Ariel-Peinado.jpg",
+      "SourceId": "CongresoUMG",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\",
+      "BasePath": "_content/CongresoUMG",
+      "RelativePath": "images/Ariel-Peinado#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6134onzgkh",
+      "Integrity": "phPGqBgzHFuZhsDDgCfbr8RRv+AfRtqLDGd+JaKod8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ariel-Peinado.jpg"
+    },
+    {
       "Identity": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\banner-campus.jpg",
       "SourceId": "CongresoUMG",
       "SourceType": "Discovered",
@@ -115,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o3vngqewqv",
-      "Integrity": "NJXwTaYqCYcbqdDI9HNQq89inAaECtzHmFNXW6+oadw=",
+      "Fingerprint": "q41mobvj37",
+      "Integrity": "OoNsy7pnqY0iQw6E/xyK3OiDBBQY7R7o6HqRMQPXaic=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\banner-campus.jpg"
@@ -206,6 +227,27 @@
       "OriginalItemSpec": "wwwroot\\images\\Hugo-Estrada.png"
     },
     {
+      "Identity": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\jackeline-salazar.jpg",
+      "SourceId": "CongresoUMG",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\",
+      "BasePath": "_content/CongresoUMG",
+      "RelativePath": "images/jackeline-salazar#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hm5sm7a07c",
+      "Integrity": "hwLQ89jtHLjAG7C1paFKdoSerLo13xKoajtDBZfd2tY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jackeline-salazar.jpg"
+    },
+    {
       "Identity": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Jonathan-Hernandez2.jpg",
       "SourceId": "CongresoUMG",
       "SourceType": "Discovered",
@@ -288,6 +330,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Luis-Rivas.jpg"
+    },
+    {
+      "Identity": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Luis-Tarot.jpg",
+      "SourceId": "CongresoUMG",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\",
+      "BasePath": "_content/CongresoUMG",
+      "RelativePath": "images/Luis-Tarot#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "atjvgms9ly",
+      "Integrity": "Dp6d+di+2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Luis-Tarot.jpg"
     },
     {
       "Identity": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Max-Caal2.jpg",
@@ -519,6 +582,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\sponsor8.jpg"
+    },
+    {
+      "Identity": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Sponsor9.jpg",
+      "SourceId": "CongresoUMG",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\",
+      "BasePath": "_content/CongresoUMG",
+      "RelativePath": "images/Sponsor9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v23455cege",
+      "Integrity": "aX5jQESGHOniZxyIF9u5qWlkg2q++ke94fF5+Rrdwlc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Sponsor9.jpg"
     },
     {
       "Identity": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Yesica-Catun.jpeg",
@@ -1947,51 +2031,6 @@
       ]
     },
     {
-      "Route": "css/site.98jrfvewro.css",
-      "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6361"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5zpcNiKGeXbLtQXlG+yKBxAig2dEGqy9EbSugy0nEZw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 05:36:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "98jrfvewro"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5zpcNiKGeXbLtQXlG+yKBxAig2dEGqy9EbSugy0nEZw="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2002,7 +2041,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6361"
+          "Value": "6545"
         },
         {
           "Name": "Content-Type",
@@ -2010,11 +2049,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5zpcNiKGeXbLtQXlG+yKBxAig2dEGqy9EbSugy0nEZw=\""
+          "Value": "\"9HKBxeHwAkt3b8OvmBr1qdUFTkG3YeJkidNdJObb4s0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 05:36:13 GMT"
+          "Value": "Mon, 05 May 2025 18:48:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2024,7 +2063,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5zpcNiKGeXbLtQXlG+yKBxAig2dEGqy9EbSugy0nEZw="
+          "Value": "sha256-9HKBxeHwAkt3b8OvmBr1qdUFTkG3YeJkidNdJObb4s0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.gxwpstxbnq.css",
+      "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HKBxeHwAkt3b8OvmBr1qdUFTkG3YeJkidNdJObb4s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 18:48:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gxwpstxbnq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HKBxeHwAkt3b8OvmBr1qdUFTkG3YeJkidNdJObb4s0="
         }
       ]
     },
@@ -2111,6 +2195,88 @@
       ]
     },
     {
+      "Route": "images/Ariel-Peinado.6134onzgkh.jpg",
+      "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Ariel-Peinado.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"phPGqBgzHFuZhsDDgCfbr8RRv+AfRtqLDGd+JaKod8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 18:19:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6134onzgkh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ariel-Peinado.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-phPGqBgzHFuZhsDDgCfbr8RRv+AfRtqLDGd+JaKod8s="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ariel-Peinado.jpg",
+      "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Ariel-Peinado.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"phPGqBgzHFuZhsDDgCfbr8RRv+AfRtqLDGd+JaKod8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 18:19:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-phPGqBgzHFuZhsDDgCfbr8RRv+AfRtqLDGd+JaKod8s="
+        }
+      ]
+    },
+    {
       "Route": "images/banner-campus.jpg",
       "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\banner-campus.jpg",
       "Selectors": [],
@@ -2121,7 +2287,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "63047"
+          "Value": "516295"
         },
         {
           "Name": "Content-Type",
@@ -2129,11 +2295,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NJXwTaYqCYcbqdDI9HNQq89inAaECtzHmFNXW6+oadw=\""
+          "Value": "\"OoNsy7pnqY0iQw6E/xyK3OiDBBQY7R7o6HqRMQPXaic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 03:30:06 GMT"
+          "Value": "Mon, 05 May 2025 18:47:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2143,12 +2309,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NJXwTaYqCYcbqdDI9HNQq89inAaECtzHmFNXW6+oadw="
+          "Value": "sha256-OoNsy7pnqY0iQw6E/xyK3OiDBBQY7R7o6HqRMQPXaic="
         }
       ]
     },
     {
-      "Route": "images/banner-campus.o3vngqewqv.jpg",
+      "Route": "images/banner-campus.q41mobvj37.jpg",
       "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\banner-campus.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2158,7 +2324,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "63047"
+          "Value": "516295"
         },
         {
           "Name": "Content-Type",
@@ -2166,11 +2332,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NJXwTaYqCYcbqdDI9HNQq89inAaECtzHmFNXW6+oadw=\""
+          "Value": "\"OoNsy7pnqY0iQw6E/xyK3OiDBBQY7R7o6HqRMQPXaic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 03:30:06 GMT"
+          "Value": "Mon, 05 May 2025 18:47:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2180,7 +2346,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o3vngqewqv"
+          "Value": "q41mobvj37"
         },
         {
           "Name": "label",
@@ -2188,7 +2354,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NJXwTaYqCYcbqdDI9HNQq89inAaECtzHmFNXW6+oadw="
+          "Value": "sha256-OoNsy7pnqY0iQw6E/xyK3OiDBBQY7R7o6HqRMQPXaic="
         }
       ]
     },
@@ -2521,6 +2687,88 @@
       ]
     },
     {
+      "Route": "images/jackeline-salazar.hm5sm7a07c.jpg",
+      "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\jackeline-salazar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwLQ89jtHLjAG7C1paFKdoSerLo13xKoajtDBZfd2tY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 18:21:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hm5sm7a07c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jackeline-salazar.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwLQ89jtHLjAG7C1paFKdoSerLo13xKoajtDBZfd2tY="
+        }
+      ]
+    },
+    {
+      "Route": "images/jackeline-salazar.jpg",
+      "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\jackeline-salazar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwLQ89jtHLjAG7C1paFKdoSerLo13xKoajtDBZfd2tY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 18:21:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwLQ89jtHLjAG7C1paFKdoSerLo13xKoajtDBZfd2tY="
+        }
+      ]
+    },
+    {
       "Route": "images/Jonathan-Hernandez2.37nvyy3blj.jpg",
       "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Jonathan-Hernandez2.jpg",
       "Selectors": [],
@@ -2845,6 +3093,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-s0HGM+sr5tuSa0qkehBE6B1H83bXtcZHQMtDSz7Ge58="
+        }
+      ]
+    },
+    {
+      "Route": "images/Luis-Tarot.atjvgms9ly.jpg",
+      "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Luis-Tarot.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dp6d+di+2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 18:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "atjvgms9ly"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Luis-Tarot.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dp6d+di+2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Luis-Tarot.jpg",
+      "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Luis-Tarot.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dp6d+di+2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 18:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dp6d+di+2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU="
         }
       ]
     },
@@ -3747,6 +4077,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-9ob0Vh3BQj6YxeUaJY0yg+tN/UkcMdXKk8SsK4GgerE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Sponsor9.jpg",
+      "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Sponsor9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aX5jQESGHOniZxyIF9u5qWlkg2q++ke94fF5+Rrdwlc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 16:49:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aX5jQESGHOniZxyIF9u5qWlkg2q++ke94fF5+Rrdwlc="
+        }
+      ]
+    },
+    {
+      "Route": "images/Sponsor9.v23455cege.jpg",
+      "AssetFile": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Sponsor9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aX5jQESGHOniZxyIF9u5qWlkg2q++ke94fF5+Rrdwlc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 16:49:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v23455cege"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Sponsor9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aX5jQESGHOniZxyIF9u5qWlkg2q++ke94fF5+Rrdwlc="
         }
       ]
     },

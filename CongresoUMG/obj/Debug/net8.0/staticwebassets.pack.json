@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Ariel-Peinado.jpg",
+      "PackagePath": "staticwebassets\\images\\Ariel-Peinado.jpg"
+    },
+    {
       "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Edgar-Lucas.jpg",
       "PackagePath": "staticwebassets\\images\\Edgar-Lucas.jpg"
     },
@@ -45,6 +49,10 @@
       "PackagePath": "staticwebassets\\images\\Luis-Rivas.jpg"
     },
     {
+      "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Luis-Tarot.jpg",
+      "PackagePath": "staticwebassets\\images\\Luis-Tarot.jpg"
+    },
+    {
       "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Max-Caal2.jpg",
       "PackagePath": "staticwebassets\\images\\Max-Caal2.jpg"
     },
@@ -61,12 +69,20 @@
       "PackagePath": "staticwebassets\\images\\Sponsor6.png"
     },
     {
+      "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Sponsor9.jpg",
+      "PackagePath": "staticwebassets\\images\\Sponsor9.jpg"
+    },
+    {
       "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\Yesica-Catun.jpeg",
       "PackagePath": "staticwebassets\\images\\Yesica-Catun.jpeg"
     },
     {
       "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\banner-campus.jpg",
       "PackagePath": "staticwebassets\\images\\banner-campus.jpg"
+    },
+    {
+      "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\jackeline-salazar.jpg",
+      "PackagePath": "staticwebassets\\images\\jackeline-salazar.jpg"
     },
     {
       "Id": "D:\\MisDocumentos2023\\Universidad\\Congreso Ingeniería en Sistemas\\appcongreso\\congresoumg\\CongresoUMG\\wwwroot\\images\\sponsor1.png",
