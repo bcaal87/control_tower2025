@@ -60,17 +60,29 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q41mobvj37"},{"Name":"integrity","Value":"sha256-OoNsy7pnqY0iQw6E/xyK3OiDBBQY7R7o6HqRMQPXaic="},{"Name":"label","Value":"_content/CongresoUMG/images/banner-campus.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"516295"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OoNsy7pnqY0iQw6E/xyK3OiDBBQY7R7o6HqRMQPXaic=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 18:47:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Christian-Real.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Christian-Real.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Ef3sO0a5Ba6THILjdmVTaguwzOhNBBlYi7FhoaKTyVo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"327397"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Ef3sO0a5Ba6THILjdmVTaguwzOhNBBlYi7FhoaKTyVo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 18:16:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Christian-Real.vg9o1znhvq.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Christian-Real.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vg9o1znhvq"},{"Name":"integrity","Value":"sha256-Ef3sO0a5Ba6THILjdmVTaguwzOhNBBlYi7FhoaKTyVo="},{"Name":"label","Value":"_content/CongresoUMG/images/Christian-Real.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"327397"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Ef3sO0a5Ba6THILjdmVTaguwzOhNBBlYi7FhoaKTyVo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 18:16:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Edgar-Lucas.i5sqyhzbib.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Edgar-Lucas.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i5sqyhzbib"},{"Name":"integrity","Value":"sha256-BkfZVe2N2Og0ZULaX1TjuP2rIr1/YEwjRCUlXUPfTX4="},{"Name":"label","Value":"_content/CongresoUMG/images/Edgar-Lucas.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"43570"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BkfZVe2N2Og0ZULaX1TjuP2rIr1/YEwjRCUlXUPfTX4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 18:01:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Edgar-Lucas.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Edgar-Lucas.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3CX6Y/qpceCZS96shuxB6KnEXeQCfGNNEfu16APlqiM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"57445"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223CX6Y/qpceCZS96shuxB6KnEXeQCfGNNEfu16APlqiM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 23:59:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Edgar-Lucas.sa69a6zc5o.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Edgar-Lucas.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sa69a6zc5o"},{"Name":"integrity","Value":"sha256-3CX6Y/qpceCZS96shuxB6KnEXeQCfGNNEfu16APlqiM="},{"Name":"label","Value":"_content/CongresoUMG/images/Edgar-Lucas.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57445"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223CX6Y/qpceCZS96shuxB6KnEXeQCfGNNEfu16APlqiM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 23:59:35 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BkfZVe2N2Og0ZULaX1TjuP2rIr1/YEwjRCUlXUPfTX4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"43570"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BkfZVe2N2Og0ZULaX1TjuP2rIr1/YEwjRCUlXUPfTX4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 18:01:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Elvis-Batzibal.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Elvis-Batzibal.jpg'))</AssetFile>
@@ -83,6 +95,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tnmwchgi2g"},{"Name":"integrity","Value":"sha256-uSozzECBnpA5FexEsmd2K6KadVXGUPMj0b7KFcCBInI="},{"Name":"label","Value":"_content/CongresoUMG/images/Elvis-Batzibal.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"38850"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uSozzECBnpA5FexEsmd2K6KadVXGUPMj0b7KFcCBInI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 01 May 2025 04:15:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Evana-bonilla.a67ywf7ssp.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Evana-bonilla.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a67ywf7ssp"},{"Name":"integrity","Value":"sha256-Lnt7C9\u002B07Bz\u002B24mC/\u002Bzcqk9tyMak41N8VDk6v3q4Ddk="},{"Name":"label","Value":"_content/CongresoUMG/images/Evana-bonilla.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32668"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Lnt7C9\u002B07Bz\u002B24mC/\u002Bzcqk9tyMak41N8VDk6v3q4Ddk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 00:27:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Evana-bonilla.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Evana-bonilla.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Lnt7C9\u002B07Bz\u002B24mC/\u002Bzcqk9tyMak41N8VDk6v3q4Ddk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32668"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Lnt7C9\u002B07Bz\u002B24mC/\u002Bzcqk9tyMak41N8VDk6v3q4Ddk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 00:27:01 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Geison-Cab.9pmej6kxyq.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Geison-Cab.jpg'))</AssetFile>
@@ -168,17 +192,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lecinq1izy"},{"Name":"integrity","Value":"sha256-s0HGM\u002Bsr5tuSa0qkehBE6B1H83bXtcZHQMtDSz7Ge58="},{"Name":"label","Value":"_content/CongresoUMG/images/Luis-Rivas.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"86377"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022s0HGM\u002Bsr5tuSa0qkehBE6B1H83bXtcZHQMtDSz7Ge58=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 23:53:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Luis-Tarot.atjvgms9ly.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Luis-Tarot.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"atjvgms9ly"},{"Name":"integrity","Value":"sha256-Dp6d\u002Bdi\u002B2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU="},{"Name":"label","Value":"_content/CongresoUMG/images/Luis-Tarot.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"65194"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Dp6d\u002Bdi\u002B2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 18:29:08 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Luis-Tarot.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Luis-Tarot.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Dp6d\u002Bdi\u002B2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"65194"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Dp6d\u002Bdi\u002B2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 18:29:08 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WsrcYJa0kJxQUndWd2W5GKcqiOH8zump9OdbiG7ORnM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14863"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WsrcYJa0kJxQUndWd2W5GKcqiOH8zump9OdbiG7ORnM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 17:59:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Luis-Tarot.yyzpcvyrku.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Luis-Tarot.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yyzpcvyrku"},{"Name":"integrity","Value":"sha256-WsrcYJa0kJxQUndWd2W5GKcqiOH8zump9OdbiG7ORnM="},{"Name":"label","Value":"_content/CongresoUMG/images/Luis-Tarot.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14863"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WsrcYJa0kJxQUndWd2W5GKcqiOH8zump9OdbiG7ORnM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 17:59:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CongresoUMG/images/Max-Caal2.6v0da3td3h.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Max-Caal2.jpg'))</AssetFile>

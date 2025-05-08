@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CongresoUMG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de738ff18bac9d72fb7e18323e04dc058293634b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76e2000d84e00f49db8a0134e98d9a1e1031085d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CongresoUMG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CongresoUMG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

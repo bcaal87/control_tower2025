@@ -2,8 +2,10 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\Ariel-Peinado.jpg
 wwwroot\images\banner-campus.jpg
+wwwroot\images\Christian-Real.png
 wwwroot\images\Edgar-Lucas.jpg
 wwwroot\images\Elvis-Batzibal.jpg
+wwwroot\images\Evana-bonilla.jpeg
 wwwroot\images\Geison-Cab.jpg
 wwwroot\images\Hugo-Estrada.png
 wwwroot\images\jackeline-salazar.jpg

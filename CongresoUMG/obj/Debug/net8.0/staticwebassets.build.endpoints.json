@@ -331,6 +331,133 @@
       ]
     },
     {
+      "Route": "images/Christian-Real.png",
+      "AssetFile": "images/Christian-Real.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ef3sO0a5Ba6THILjdmVTaguwzOhNBBlYi7FhoaKTyVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 18:16:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ef3sO0a5Ba6THILjdmVTaguwzOhNBBlYi7FhoaKTyVo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Christian-Real.vg9o1znhvq.png",
+      "AssetFile": "images/Christian-Real.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ef3sO0a5Ba6THILjdmVTaguwzOhNBBlYi7FhoaKTyVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 18:16:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vg9o1znhvq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ef3sO0a5Ba6THILjdmVTaguwzOhNBBlYi7FhoaKTyVo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Christian-Real.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Edgar-Lucas.i5sqyhzbib.jpg",
+      "AssetFile": "images/Edgar-Lucas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BkfZVe2N2Og0ZULaX1TjuP2rIr1/YEwjRCUlXUPfTX4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 18:01:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5sqyhzbib"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BkfZVe2N2Og0ZULaX1TjuP2rIr1/YEwjRCUlXUPfTX4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Edgar-Lucas.jpg"
+        }
+      ]
+    },
+    {
       "Route": "images/Edgar-Lucas.jpg",
       "AssetFile": "images/Edgar-Lucas.jpg",
       "Selectors": [],
@@ -345,7 +472,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "57445"
+          "Value": "43570"
         },
         {
           "Name": "Content-Type",
@@ -353,62 +480,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3CX6Y/qpceCZS96shuxB6KnEXeQCfGNNEfu16APlqiM=\""
+          "Value": "\"BkfZVe2N2Og0ZULaX1TjuP2rIr1/YEwjRCUlXUPfTX4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 23:59:35 GMT"
+          "Value": "Thu, 08 May 2025 18:01:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3CX6Y/qpceCZS96shuxB6KnEXeQCfGNNEfu16APlqiM="
-        }
-      ]
-    },
-    {
-      "Route": "images/Edgar-Lucas.sa69a6zc5o.jpg",
-      "AssetFile": "images/Edgar-Lucas.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "57445"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3CX6Y/qpceCZS96shuxB6KnEXeQCfGNNEfu16APlqiM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 23:59:35 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sa69a6zc5o"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3CX6Y/qpceCZS96shuxB6KnEXeQCfGNNEfu16APlqiM="
-        },
-        {
-          "Name": "label",
-          "Value": "images/Edgar-Lucas.jpg"
+          "Value": "sha256-BkfZVe2N2Og0ZULaX1TjuP2rIr1/YEwjRCUlXUPfTX4="
         }
       ]
     },
@@ -491,6 +573,88 @@
         {
           "Name": "label",
           "Value": "images/Elvis-Batzibal.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Evana-bonilla.a67ywf7ssp.jpeg",
+      "AssetFile": "images/Evana-bonilla.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lnt7C9+07Bz+24mC/+zcqk9tyMak41N8VDk6v3q4Ddk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 00:27:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a67ywf7ssp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lnt7C9+07Bz+24mC/+zcqk9tyMak41N8VDk6v3q4Ddk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Evana-bonilla.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Evana-bonilla.jpeg",
+      "AssetFile": "images/Evana-bonilla.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lnt7C9+07Bz+24mC/+zcqk9tyMak41N8VDk6v3q4Ddk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 00:27:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lnt7C9+07Bz+24mC/+zcqk9tyMak41N8VDk6v3q4Ddk="
         }
       ]
     },
@@ -987,51 +1151,6 @@
       ]
     },
     {
-      "Route": "images/Luis-Tarot.atjvgms9ly.jpg",
-      "AssetFile": "images/Luis-Tarot.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "65194"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dp6d+di+2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 18:29:08 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "atjvgms9ly"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dp6d+di+2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU="
-        },
-        {
-          "Name": "label",
-          "Value": "images/Luis-Tarot.jpg"
-        }
-      ]
-    },
-    {
       "Route": "images/Luis-Tarot.jpg",
       "AssetFile": "images/Luis-Tarot.jpg",
       "Selectors": [],
@@ -1046,7 +1165,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "65194"
+          "Value": "14863"
         },
         {
           "Name": "Content-Type",
@@ -1054,17 +1173,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Dp6d+di+2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU=\""
+          "Value": "\"WsrcYJa0kJxQUndWd2W5GKcqiOH8zump9OdbiG7ORnM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 18:29:08 GMT"
+          "Value": "Wed, 07 May 2025 17:59:32 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Dp6d+di+2Fde4gSoRRmo2psIR5/OT3dsggMWCF2oQMU="
+          "Value": "sha256-WsrcYJa0kJxQUndWd2W5GKcqiOH8zump9OdbiG7ORnM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Luis-Tarot.yyzpcvyrku.jpg",
+      "AssetFile": "images/Luis-Tarot.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WsrcYJa0kJxQUndWd2W5GKcqiOH8zump9OdbiG7ORnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 17:59:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yyzpcvyrku"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WsrcYJa0kJxQUndWd2W5GKcqiOH8zump9OdbiG7ORnM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Luis-Tarot.jpg"
         }
       ]
     },
