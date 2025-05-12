@@ -1,4 +1,4 @@
-﻿@model List<CongresoUMG.Models.Participante>
+﻿@model PaginatedList<CongresoUMG.Models.Participante>
 
 @{
     ViewData["Title"] = "Check-In de Participantes";
@@ -7,17 +7,23 @@
 <h2 class="mb-3">Check-In de Participantes</h2>
 
 <form method="get" asp-action="CheckIn">
-    <input type="text" name="search" placeholder="Buscar por carné, DPI o nombre" class="form-control mb-3" />
+    <input type="text" name="search" value="@ViewBag.Search" placeholder="Buscar por carné, DPI o nombre" class="form-control mb-3" />
     <button type="submit" class="btn btn-primary">Buscar</button>
 </form>
+<div class="d-flex justify-content-end mb-3">
+    <a asp-action="ExportarCheckInPorCiclo" class="btn btn-outline-success">
+        📥 Exportar Check-In por Ciclo
+    </a>
+</div>
 
 <table class="table table-bordered">
-    <thead>
+    <thead class="table-light">
         <tr>
             <th>Carné</th>
             <th>Nombre</th>
             <th>DPI</th>
             <th>Teléfono</th>
+            <th>Ciclo / Semestre</th>
             <th>Check-In</th>
             <th>Acción</th>
         </tr>
@@ -30,6 +36,7 @@
                 <td>@p.NombreCompleto</td>
                 <td>@p.Dpi</td>
                 <td>@p.Telefono</td>
+                <td>@p.CicloOSemestre</td>
                 <td>
                     @if (p.CheckIn)
                     {
@@ -56,3 +63,36 @@
         }
     </tbody>
 </table>
+
+<nav>
+    <ul class="pagination justify-content-center">
+        @if (Model.HasPreviousPage)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-action="CheckIn" asp-route-page="@(Model.PageIndex - 1)" asp-route-search="@ViewBag.Search">Anterior</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled"><span class="page-link">Anterior</span></li>
+        }
+
+        <li class="page-item disabled">
+            <span class="page-link">Página @Model.PageIndex de @Model.TotalPages</span>
+        </li>
+
+        @if (Model.HasNextPage)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-action="CheckIn" asp-route-page="@(Model.PageIndex + 1)" asp-route-search="@ViewBag.Search">Siguiente</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled"><span class="page-link">Siguiente</span></li>
+        }
+    </ul>
+</nav>
+
+
+
