@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ClosedXML.Excel;
+using CongresoUMG.Services; // Asegúrate de tener esta línea para EmailService
 
 namespace CongresoUMG.Controllers
 {
@@ -11,13 +12,14 @@ namespace CongresoUMG.Controllers
     public class AdminController : Controller
     {
         private readonly CongresoContext _context;
+        private readonly EmailService _emailService;
 
-        public AdminController(CongresoContext context)
+        public AdminController(CongresoContext context, EmailService emailService)
         {
             _context = context;
+            _emailService = emailService;
         }
 
-        // GET: /Admin/CheckIn
         public async Task<IActionResult> CheckIn(string search, int page = 1, int pageSize = 10)
         {
             page = page < 1 ? 1 : page;
@@ -41,7 +43,6 @@ namespace CongresoUMG.Controllers
             return View(participantes);
         }
 
-        // POST: /Admin/CheckInConfirm/5
         [HttpPost]
         public async Task<IActionResult> CheckInConfirm(int id)
         {
@@ -50,6 +51,23 @@ namespace CongresoUMG.Controllers
             {
                 participante.CheckIn = true;
                 await _context.SaveChangesAsync();
+
+                // Enviar correo de bienvenida
+                if (!string.IsNullOrWhiteSpace(participante.CorreoElectronico))
+                {
+                    var asunto = "¡Bienvenido al XIII Congreso de Ingeniería!";
+                    var mensaje = $@"
+                        <p>Estimado(a) <strong>{participante.NombreCompleto}</strong>,</p>
+                        <p>Le damos una cordial bienvenida al <strong>XIII Congreso de Ingeniería en Sistemas</strong> de la Universidad Mariano Gálvez, sede Cobán.</p>
+                        <p>📅 <strong>Fecha:</strong> 16 y 17 de mayo de 2025<br/>
+                        📍 <strong>Lugar:</strong> Hotel Alcázar de Doña Victoria, Cobán Alta Verapaz</p>
+                        <p>¡Gracias por ser parte de esta experiencia de innovación y tecnología!</p>
+                        <p>Puedes ver nuestra agenda del evento https://sistemasumgcoban.com.gt/</p>
+                        <hr />
+                        <small>UMG - Campus Cobán | © PROLINK GT </small>";
+
+                    await _emailService.EnviarCorreoAsync(participante.CorreoElectronico, asunto, mensaje);
+                }
             }
 
             if (Request.HasFormContentType && Request.Form.ContainsKey("search"))
@@ -58,14 +76,12 @@ namespace CongresoUMG.Controllers
             return RedirectToAction(nameof(CheckIn));
         }
 
-        // GET: /Admin/Importar
         [HttpGet]
         public IActionResult Importar()
         {
             return View();
         }
 
-        // POST: /Admin/Importar
         [HttpPost]
         public async Task<IActionResult> Importar(IFormFile archivo)
         {
@@ -123,7 +139,6 @@ namespace CongresoUMG.Controllers
             return View();
         }
 
-        // GET: /Admin/ExportarCheckInPorCiclo
         [HttpGet]
         public async Task<IActionResult> ExportarCheckInPorCiclo()
         {
@@ -167,7 +182,3 @@ namespace CongresoUMG.Controllers
         }
     }
 }
-
-
-
-

@@ -153,3 +153,8 @@ D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\Co
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\bin\Debug\net8.0\System.IO.Packaging.dll
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\congresoumg\CongresoUMG\obj\Debug\net8.0\CongresoUMG.sourcelink.json
 D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\CongresoUMG\CongresoUMG\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\congresoumg\CongresoUMG\bin\Debug\net8.0\MailKit.dll
+D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\congresoumg\CongresoUMG\bin\Debug\net8.0\MimeKit.dll
+D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\congresoumg\CongresoUMG\bin\Debug\net8.0\NETCore.MailKit.dll
+D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\congresoumg\CongresoUMG\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\MisDocumentos2023\Universidad\Congreso Ingeniería en Sistemas\appcongreso\congresoumg\CongresoUMG\bin\Debug\net8.0\SmtpServer.dll

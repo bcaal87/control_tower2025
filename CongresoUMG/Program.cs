@@ -1,12 +1,16 @@
 using CongresoUMG.Data;
+using CongresoUMG.Services;
 using Microsoft.EntityFrameworkCore;
 
+
 var builder = WebApplication.CreateBuilder(args);
+
 
 builder.Services.AddDbContext<CongresoContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<EmailService>();
 
 builder.Services.AddAuthentication("Cookies")
     .AddCookie("Cookies", options =>
