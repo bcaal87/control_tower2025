@@ -3,8 +3,9 @@ version: '3'
 services:
   congreso-frontend:
     build:
-      context: ./CongresoUMG
+      context: ./SitioWebUMG
       dockerfile: Dockerfile
+    container_name: Sitio-SistemasCoban
     restart: always
     environment:
       - VIRTUAL_HOST=sistemasumgcoban.com.gt

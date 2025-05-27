@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ingeniería en Sistemas de Información y Ciencias de la Computación - UMG Cobán">
+    <title>Sistemas Cobán</title>
+    <link rel="preload" href="img/banner-xl.webp" as="image" fetchpriority="high">
+    <link rel="preload" href="fuente/UbuntuMono-Bold.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="stylesheet" href="estilo.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="img/Umg.jpg">
+
+
+
+
+
+</head>
+<body>
+    <nav>
+        <!-- Logo optimizado -->
+        <div class="logo-container">
+            <picture>
+                <source srcset="img/Umg-small.webp 150w, img/Umg.webp 200w" type="image/webp">
+                <img src="img/Umg.webp" alt="Logo UMG" width="200" height="70" fetchpriority="high">
+            </picture>
+        </div>
+        
+        <!-- Eliminar esta sección que está duplicada -->
+        <!-- <div class="card-image">...</div> -->
+        
+        <div class="menu-toggle" onclick="toggleMenu()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="nav-links">
+            <a href="#inicio">Inicio</a>
+            <a href="#descripcion">Áreas</a>
+            <a href="#info-academica">Información</a>
+            <a href="#galeria">Galería</a>
+            <a href="#contacto">Contacto</a>
+            <!-- Boton que redirige a la landing-->
+            <a href="#Landing">Congreso</a>
+        </div>
+    </nav>
+
+    <section class="hero" id="inicio">
+        <div class="hero-content">
+            <h1>Ingeniería en Sistemas de Información y Ciencias de la Computación</h1>
+            <p>¡Ingeniería en Sistemas te cambia la Vida!</p>
+        </div>
+    </section>
+
+    <div class="separador-degradado"></div>
+
+    <section class="descripcion" id="descripcion">
+        <h2>Áreas de la Carrera</h2>
+        <div class="cards-container">
+            <div class="card">
+                <div class="card-image">
+                    <img src="img/galeria1.webp" 
+                         srcset="img/galeria1.webp 400w,
+                                 img/galeria1.webp 350w"
+                         sizes="(max-width: 768px) 350px, 400px"
+                         alt="Área de Ciencias" 
+                         loading="lazy">
+                </div>
+                <h3>ÁREA DE CIENCIAS DE LA INGENIERÍA</h3>
+                <p>En esta área se adquieren conocimientos sólidos en matemáticas, física y otras ciencias aplicadas, fundamentales para resolver problemas técnicos. También se desarrollan habilidades en algoritmos, estructuras de datos y fundamentos computacionales, que forman la base de soluciones en ingeniería.</p>
+            </div>
+    
+            <div class="card">
+                <div class="card-image">
+                    <img src="img/galeria2.webp"
+                         srcset="img/galeria2.webp 400w,
+                                 img/galeria2.webp 350w"
+                         sizes="(max-width: 768px) 350px, 400px"
+                         alt="Área de Análisis"
+                         loading="lazy">
+                </div>
+                <h3>ÁREA DE ANÁLISIS, DISEÑO Y DESARROLLO</h3>
+                <p>En esta sección se profundiza en el análisis, la planificación, el diseño y la implementación de soluciones tecnológicas. Se aprende a convertir requerimientos en sistemas funcionales utilizando metodologías modernas de programación y diseño, creando aplicaciones y sistemas informáticos innovadores.</p>
+            </div>
+    
+            <div class="card">
+                <div class="card-image">
+                    <img src="img/galeria4.webp"
+                         srcset="img/galeria4.webp 400w,
+                                 img/galeria4.webp 350w"
+                         sizes="(max-width: 768px) 350px, 400px"
+                         alt="Área de Administración"
+                         loading="lazy">
+                </div>
+                <h3>ÁREA DE ADMINISTRACIÓN DE TECNOLOGÍAS DE INFORMACIÓN</h3>
+                <p>Aquí se adquieren las herramientas para gestionar recursos tecnológicos de manera eficiente en organizaciones. Incluye planificación estratégica, seguridad informática y optimización de procesos empresariales mediante el uso de tecnología. También se exploran temas de liderazgo y toma de decisiones tecnológicas.</p>
+            </div>
+        </div>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSehKAisccWyZKh2FVYaer2xATH8Jb2208hRU0N4jR7lukChIw/viewform?usp=header" 
+            target="_blank" 
+            rel="noopener"
+            class="boton-formulario">
+            Pensum Ingeniería en Sistemas
+        </a>
+     
+    </section>
+    <section class="info-academica" id="info-academica">
+        <h2>Información Académica</h2>
+        <div class="info-grid">
+            <div class="info-item">
+                <h3>Título académico a obtener</h3>
+                <p>Ingeniero(a) en sistemas de información y ciencias de la computación</p>
+            </div>
+            <div class="info-item">
+                <h3>Grado Académico</h3>
+                <p>Licenciatura en ingeniería en sistemas de información y ciencias de la computación</p>
+            </div>
+            <div class="info-item">
+                <h3>Duración</h3>
+                <p>5 Años</p>
+            </div>
+            <div class="info-item">
+                <h3>Modalidad de estudio</h3>
+                <p>Presencial</p>
+            </div>
+            <div class="info-item">
+                <h3>Jornada</h3>
+                <p>Diaria matutina y Vespertina<br>
+                    Plan Fin de Semana</p>
+            </div>
+            <div class="info-item">
+                <h3>Horario</h3>
+                <p>Lunes a Viernes de 7:00 a 12:00<br>
+                <p>Lunes a Viernes de 18:00 a 21:00<br>
+                <br>
+                <p>Sábado de 7:00 a 18:00<br>
+                Domingo de 7:00 a 18:00</p>
+
+            </div>
+        </div>
+    </section>
+    
+    <section class="galeria" id="galeria">
+        <h2>Galería</h2>
+        <div class="carousel-container">
+            <div class="carousel">
+                <div class="carousel-item">
+                    <img src="img/a.png" alt="Imagen 1" loading="lazy">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/b.png" alt="Imagen 2" loading="lazy">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/c.png" alt="Imagen 3" loading="lazy">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/d.png"  alt="Imagen 4" loading="lazy">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/e.png" alt="Imagen 5" loading="lazy">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/f.png" alt="Imagen 6" loading="lazy">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/g.png" alt="Imagen 7" loading="lazy">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/h.png" alt="Imagen 8" loading="lazy">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/i.png" alt="Imagen 9" loading="lazy">
+                </div>
+            </div>
+            <button class="carousel-button prev">&#10094;</button>
+            <button class="carousel-button next">&#10095;</button>
+        </div>
+    </section>
+
+    <footer class="contacto" id="contacto">
+        <h2>Contáctanos</h2>
+        <div class="contacto-grid">
+            <div class="contacto-card">
+                <i class="icon">📧</i>
+                <h3>Correo Electrónico</h3>
+                <a href="https://mail.google.com/mail/?view=cm&to=coban@umg.edu.gt" 
+                    target="_blank" 
+                    rel="noopener">
+                    coban@umg.edu.gt
+                </a>
+            </div>
+            <div class="contacto-card">
+                <i class="icon">📍</i>
+                <h3>Dirección</h3>
+                <p>6 avenida 2-33 zona 1 (avenida del estadio) Cobán.</p>
+            </div>
+            <div class="contacto-card">
+                <i class="icon">📞</i>
+                <h3>Teléfono</h3>
+                <a href="tel:+50279521041">+502 7952-1041</a> 
+                <a href="tel:+50279521776">+502 7952-1776</a>
+            </div>
+            <div class="contacto-card">
+                <i class="icon">🌐</i>
+                <h3>Redes Sociales</h3>
+                <div class="redes">
+                    <a href="https://www.facebook.com/profile.php?id=100057188661392" target="_blank" rel="noopener">Facebook</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Menú móvil optimizado
+        const toggleMenu = () => document.querySelector('.nav-links').classList.toggle('active');
+    
+        // Cerrar menú al hacer clic en un enlace
+        document.querySelectorAll('.nav-links a').forEach(link => {
+            link.addEventListener('click', () => {
+                if (window.innerWidth <= 768) {
+                    document.querySelector('.nav-links').classList.remove('active');
+                }
+            });
+        });
+    
+        // Optimización de carga
+        document.addEventListener('DOMContentLoaded', () => {
+            // Lazy loading
+            if ('loading' in HTMLImageElement.prototype) {
+                document.querySelectorAll('img[loading="lazy"]').forEach(img => {
+                    img.decoding = 'async';
+                });
+            }
+    
+            // Precarga de imágenes críticas
+            ['img/banner-xl.webp', 'img/fondo.webp'].forEach(url => {
+                const img = new Image();
+                img.src = url;
+            });
+        });
+    
+        // Carousel functionality
+        document.addEventListener('DOMContentLoaded', () => {
+            const carousel = document.querySelector('.carousel');
+            const items = document.querySelectorAll('.carousel-item');
+            const prevButton = document.querySelector('.carousel-button.prev');
+            const nextButton = document.querySelector('.carousel-button.next');
+            let currentIndex = 0;
+
+            function updateCarousel() {
+                carousel.style.transform = `translateX(-${currentIndex * 100}%)`;
+            }
+
+            prevButton.addEventListener('click', () => {
+                currentIndex = (currentIndex - 1 + items.length) % items.length;
+                updateCarousel();
+            });
+
+            nextButton.addEventListener('click', () => {
+                currentIndex = (currentIndex + 1) % items.length;
+                updateCarousel();
+            });
+        });
+    </script>
+</body>
+</html>
