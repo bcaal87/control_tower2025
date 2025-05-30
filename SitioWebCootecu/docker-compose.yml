@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  cootecu-wordpress:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: Sitio-Cootecu
+    restart: always
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_NAME: ${WORDPRESS_DB_NAME}
+      WORDPRESS_DB_USER: ${WORDPRESS_DB_USER}
+      WORDPRESS_DB_PASSWORD: ${WORDPRESS_DB_PASSWORD}
+      VIRTUAL_HOST: app.cootecu.com.gt
+      LETSENCRYPT_HOST: app.cootecu.com.gt
+      LETSENCRYPT_EMAIL: caal97@gmail.com
+    volumes:
+      - wp_data:/var/www/html
+    networks:
+      - web
+      - internal
+    expose:
+      - "80"
+
+  db:
+    image: mysql:5.7
+    container_name: cootecu-db
+    restart: always
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+    volumes:
+      - db_data:/var/lib/mysql
+    networks:
+      - internal
+
+volumes:
+  wp_data:
+  db_data:
+
+networks:
+  web:
+    external: true
+  internal:
+    driver: bridge
+
